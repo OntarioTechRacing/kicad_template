@@ -1,13 +1,13 @@
 ################################################################################
 # kibot.yaml
-# Base commit hash: TODO TODO TODO
+# Base commit hash: 605c4f3
 #
 # KiBot custom preflight checks and output file automations for GitHub actions.
 #
 # Built for KiCad 8 with KiBot.
 ################################################################################
 
-name: Checks
+name: KiBot Preflight Checks & Release
 
 on:
   push:

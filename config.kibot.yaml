@@ -1,6 +1,6 @@
 ################################################################################
-# TODO TODO TODO _______.kibot.yaml
-# Base commit hash: TODO TODO TODO
+# config.kibot.yaml
+# Base commit hash: 605c4f3
 #
 # Based on the example KiBot config file for ardu_prog.pro.
 # https://github.com/INTI-CMNB/kibot_variants_arduprog/blob/master/ardu_prog.kibot.yaml
